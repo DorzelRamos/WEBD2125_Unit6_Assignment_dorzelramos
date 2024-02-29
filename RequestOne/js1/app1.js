@@ -2,8 +2,17 @@
 
 'use strict';
 
-const url = '';
-// /////// insert URL of api
+// /////// insert URL of API: Open Library does not require an auth key.
+
+// /////// Below is the Endpoint for the API
+// const url = 'https://openlibrary.org/search.json';
+
+// /////// Example for searches
+const url = 'https://openlibrary.org/search.json?q=the+lord+of+the+rings.json';
+
+// /////// broken URL will show 404 Error!
+// const url = 'https://openlibrary.org/sear'
+
 
 
 // ////// No need to write new code when using XHR, functions can be reusable
