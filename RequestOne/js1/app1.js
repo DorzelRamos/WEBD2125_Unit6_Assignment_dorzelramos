@@ -7,7 +7,7 @@
 // /////// Below is the Endpoint for the API
 // const url = 'https://openlibrary.org/search.json';
 
-// /////// Example for searches
+// /////// Example for URL API
 const url = 'https://openlibrary.org/search.json?q=the+lord+of+the+rings.json';
 
 // /////// broken URL will show 404 Error!
