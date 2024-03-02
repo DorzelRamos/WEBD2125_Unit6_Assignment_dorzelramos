@@ -1,4 +1,4 @@
-// ///////// fetch()
+// fetch() Request
 // anytime a fetch(url) to any HTTP response, it's either resolve(value) or reject(error)
 // resolve(value) = state:"fufilled" and result:value
 // reject(error) = state:"rejected" and result:error. *fetch only rejects when a network issue prevents a request from being executed
